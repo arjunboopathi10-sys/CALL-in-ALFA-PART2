@@ -1,0 +1,7 @@
+CALL in ALFA
+
+1. Unzip this folder anywhere.
+2. Double-click "Start CALL in ALFA.bat".
+3. The editor opens in its own window (Edge or Chrome is used).
+
+Keep app.html and the .bat file in the same folder.
